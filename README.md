@@ -115,3 +115,4 @@ exibir, completaram com zeros a esquerda os valores que possuíam menos de 3 dí
   <p align="center">
   <img src ="https://github.com/ArthurOlive/Trabalho-Pratico-2019.2/blob/master/img/img04.PNG">
   </p>
+<hr></hr>
